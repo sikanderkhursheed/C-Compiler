@@ -1,0 +1,14 @@
+type	void
+main	main
+Left Bracket	(
+Right Bracket	)
+Left Curly Bracket	{
+Identifier	a
+equal	=
+Identifier	b
+Operator	/
+Identifier	c
+Operator	*
+Identifier	d
+Colon	;
+Right Curly Bracket	}

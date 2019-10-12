@@ -1,0 +1,23 @@
+C:\Users\'\Documents\Visual Studio 2012\Projects\c_comp\c_comp\bin\Debug\c_comp.exe.config
+C:\Users\'\Documents\Visual Studio 2012\Projects\c_comp\c_comp\bin\Debug\c_comp.exe
+C:\Users\'\Documents\Visual Studio 2012\Projects\c_comp\c_comp\bin\Debug\c_comp.pdb
+C:\Users\'\Documents\Visual Studio 2012\Projects\c_comp\c_comp\obj\Debug\c_comp.exe
+C:\Users\'\Documents\Visual Studio 2012\Projects\c_comp\c_comp\obj\Debug\c_comp.pdb
+C:\Users\HP\Desktop\c_comp\c_comp\bin\Debug\c_comp.exe.config
+C:\Users\HP\Desktop\c_comp\c_comp\obj\Debug\c_comp.exe
+C:\Users\HP\Desktop\c_comp\c_comp\obj\Debug\c_comp.pdb
+C:\Users\HP\Desktop\c_comp\c_comp\bin\Debug\c_comp.exe
+C:\Users\HP\Desktop\c_comp\c_comp\bin\Debug\c_comp.pdb
+C:\Users\HP\Desktop\c_comp\c_comp\obj\Debug\c_comp.csprojResolveAssemblyReference.cache
+C:\Users\'\Desktop\c_comp\c_comp\bin\Debug\c_comp.exe.config
+C:\Users\'\Desktop\c_comp\c_comp\bin\Debug\c_comp.exe
+C:\Users\'\Desktop\c_comp\c_comp\bin\Debug\c_comp.pdb
+C:\Users\'\Desktop\c_comp\c_comp\obj\Debug\c_comp.exe
+C:\Users\'\Desktop\c_comp\c_comp\obj\Debug\c_comp.pdb
+D:\Szabist\semester 6\Compiler construction\compiler project\c_comp\c_comp\bin\Debug\c_comp.exe.config
+D:\Szabist\semester 6\Compiler construction\compiler project\c_comp\c_comp\bin\Debug\c_comp.exe
+D:\Szabist\semester 6\Compiler construction\compiler project\c_comp\c_comp\bin\Debug\c_comp.pdb
+D:\Szabist\semester 6\Compiler construction\compiler project\c_comp\c_comp\obj\Debug\c_comp.csprojAssemblyReference.cache
+D:\Szabist\semester 6\Compiler construction\compiler project\c_comp\c_comp\obj\Debug\c_comp.csproj.CoreCompileInputs.cache
+D:\Szabist\semester 6\Compiler construction\compiler project\c_comp\c_comp\obj\Debug\c_comp.exe
+D:\Szabist\semester 6\Compiler construction\compiler project\c_comp\c_comp\obj\Debug\c_comp.pdb
